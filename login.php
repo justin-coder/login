@@ -44,7 +44,7 @@ $password=$_POST['password'];
     <!-----* Img *----->
        
         <div class="header">
-            <img class="center" src="image/admin.png" alt=" "> 
+            <img class="center" src="admin.png" alt=" "> 
         </div>
     <!-----* </img> *-----> 
      
